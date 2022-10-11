@@ -1,0 +1,6 @@
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\Difference\bin\Debug\Difference.dll
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\Difference\bin\Debug\Difference.pdb
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\Difference\obj\Debug\Difference.csprojAssemblyReference.cache
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\Difference\obj\Debug\Difference.csproj.CoreCompileInputs.cache
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\Difference\obj\Debug\Difference.dll
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\Difference\obj\Debug\Difference.pdb

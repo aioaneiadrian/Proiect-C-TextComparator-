@@ -1,0 +1,16 @@
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\bin\Debug\UnitTestDiffernce.dll
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\bin\Debug\UnitTestDiffernce.pdb
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\bin\Debug\Difference.dll
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\bin\Debug\Difference.pdb
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\obj\Debug\UnitTestDiffernce.csprojAssemblyReference.cache
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\obj\Debug\UnitTestDiffernce.csproj.CoreCompileInputs.cache
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\obj\Debug\UnitTestDiffernce.csproj.CopyComplete
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\obj\Debug\UnitTestDiffernce.dll
+C:\Users\bucoss\Desktop\TextComparator (1)\TextComparator\UnitTestDiffernce\obj\Debug\UnitTestDiffernce.pdb
